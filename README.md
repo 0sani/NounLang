@@ -7,13 +7,13 @@ I have made a terrible mistake
 definite: d
 indefinite: i
 
-> ddd
-> ddi
+\> ddd
+\> ddi
 + did
 - dii
 . idd
 , idi
-[ iid
-] iii
+\[ iid
+\] iii
 
 These will be changed as needed to fit English writing patterns
