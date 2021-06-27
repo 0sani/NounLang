@@ -1,6 +1,7 @@
 # NounFuck: an esoteric, Turing complete programming language based on Brainfuck
 
-I have made a terrible mistake
+I have made a terrible mistake  
+Did I just call a python script in my C program? Of course I did! This project was a mistake and that was the final nail in the coffin  
 
 ## Documentation? With an idea as terrible as this one, this is all you're getting
 
