@@ -53,5 +53,6 @@ char* convertToBF() {
 
 int main() {
     run(convertToBF());
+    system("rm tmp.txt");
     return 0;
 }
