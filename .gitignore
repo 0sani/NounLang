@@ -1,0 +1,7 @@
+# vscode
+/.vscode
+
+# testing files
+bfToNounLang.py
+out
+tmp.txt
