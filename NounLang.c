@@ -41,7 +41,7 @@ void run(char* inputString) {
 
 char* convertToBF() {
 
-    int output = system("python3 bfConverter.py > tmp.txt");
+    system("python3 bfConverter.py > tmp.txt");
 
     FILE *fp = fopen("tmp.txt", "r");
     static char buffer[1000];
